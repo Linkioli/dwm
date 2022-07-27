@@ -4,5 +4,5 @@
 - pywal support
 - optimized for the colemak keyboard layout
 - fullgaps
-- systray support
+- pulls colors from .Xresources
 
